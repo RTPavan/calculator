@@ -1,0 +1,43 @@
+body{
+	background-color: #88F65F;
+	margin: 0;
+}
+
+main{
+	align-content: center;
+	width: 30%;
+	height: 80%;
+	margin-left: 35%;
+	margin-top: 5%;
+	background-color: grey;
+}
+
+.num{
+	width: 90%;
+	margin-top: 10%;
+}
+
+input{
+	width: 90%;
+	height: 15%;
+	background-color: white;
+	font-size: 25px;
+}
+
+.line1{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 2%;
+}
+
+button{
+	background-color: #F35A00;
+	width: 20%;
+	border-radius: 25px;
+ 	color: white;
+ 	padding: 15px 32px;
+ 	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+}
